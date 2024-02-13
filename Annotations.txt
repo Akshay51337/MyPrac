@@ -1,0 +1,7 @@
+@Configuration:
+This tells Spring that the class contains configuration settings.
+In the context of security, it's used to set up how security should work in your application.
+
+@EnableWebSecurity:
+This annotation tells Spring to enable web security features.
+It's often used in combination with @Configuration for setting up security configurations specifically for web applications.

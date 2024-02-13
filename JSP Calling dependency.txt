@@ -1,0 +1,8 @@
+<dependency>
+        <groupId>org.apache.tomcat.embed</groupId>
+        <artifactId>tomcat-embed-jasper</artifactId>
+        <scope>provided</scope>
+    </dependency>
+    
+    
+Note -tomcat-embed-jasper dependency is essential for JSP rendering in a Spring Boot application when you're using an embedded Tomcat server.
